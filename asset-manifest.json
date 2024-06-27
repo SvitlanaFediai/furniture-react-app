@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/furniture-react-app/static/css/main.ac51d6fd.css",
+    "main.js": "/furniture-react-app/static/js/main.18dd8595.js",
+    "static/media/single-sofa-01.jpg": "/furniture-react-app/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
+    "static/media/arm-chair-03.jpg": "/furniture-react-app/static/media/arm-chair-03.3249f382638c86196acd.jpg",
+    "static/media/single-sofa-03.jpg": "/furniture-react-app/static/media/single-sofa-03.0d976c067034347df78d.jpg",
+    "static/media/arm-chair-01.jpg": "/furniture-react-app/static/media/arm-chair-01.ec17d40c57ba24fe8783.jpg",
+    "static/media/single-sofa-02.jpg": "/furniture-react-app/static/media/single-sofa-02.c27d595e87065035a135.jpg",
+    "static/media/arm-chair-02.jpg": "/furniture-react-app/static/media/arm-chair-02.fb2852acd360d23eeb04.jpg",
+    "static/media/chair-05.png": "/furniture-react-app/static/media/chair-05.0f6cdf5fbf112a66d15f.png",
+    "static/media/banner-2.jpg": "/furniture-react-app/static/media/banner-2.33169d029c8328c7bdbf.jpg",
+    "static/media/banner-4.jpg": "/furniture-react-app/static/media/banner-4.3c5f074790166f9ef9d9.jpg",
+    "static/media/banner-3.jpg": "/furniture-react-app/static/media/banner-3.6415da5f83a11f25a369.jpg",
+    "static/media/banner-1.jpg": "/furniture-react-app/static/media/banner-1.e70d894bb5c684bf0608.jpg",
+    "static/media/chair-03.png": "/furniture-react-app/static/media/chair-03.3aebea74ae49ed7a95c4.png",
+    "static/media/arm-chair-05.png": "/furniture-react-app/static/media/arm-chair-05.848b337c6a9f1dab159c.png",
+    "static/media/single-sofa-05.png": "/furniture-react-app/static/media/single-sofa-05.d82db928f7346feb92c2.png",
+    "static/media/double-sofa-02.png": "/furniture-react-app/static/media/double-sofa-02.eac56d9c3869030c478e.png",
+    "static/media/arm-chair-06.png": "/furniture-react-app/static/media/arm-chair-06.71162488fd01f1ec157a.png",
+    "static/media/double-sofa-01.png": "/furniture-react-app/static/media/double-sofa-01.183aaa8ba79a197491f7.png",
+    "static/media/double-sofa-04.png": "/furniture-react-app/static/media/double-sofa-04.1815c7988db664b7fcb2.png",
+    "static/media/arm-chair-04.png": "/furniture-react-app/static/media/arm-chair-04.58c8229ab71e47f310ad.png",
+    "static/media/chair-01.png": "/furniture-react-app/static/media/chair-01.756d90d032868f0a1972.png",
+    "static/media/double-sofa-03.png": "/furniture-react-app/static/media/double-sofa-03.afb74598f1e42c273506.png",
+    "static/media/single-sofa-04.png": "/furniture-react-app/static/media/single-sofa-04.980da5a130febb12ba74.png",
+    "static/media/chair-02.png": "/furniture-react-app/static/media/chair-02.1750783f8d20e569066d.png",
+    "static/media/double-sofa-05.png": "/furniture-react-app/static/media/double-sofa-05.8ff399abba48942d34d4.png",
+    "static/media/chair-07.png": "/furniture-react-app/static/media/chair-07.fe5c44fe04c574071e83.png",
+    "static/media/counter-timer-img.png": "/furniture-react-app/static/media/counter-timer-img.11ac8dfe1f6734c62d2f.png",
+    "static/media/chair-06.png": "/furniture-react-app/static/media/chair-06.cd357a188b99082f6efb.png",
+    "static/media/payment.png": "/furniture-react-app/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/emptyCart.png": "/furniture-react-app/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "index.html": "/furniture-react-app/index.html",
+    "main.ac51d6fd.css.map": "/furniture-react-app/static/css/main.ac51d6fd.css.map",
+    "main.18dd8595.js.map": "/furniture-react-app/static/js/main.18dd8595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac51d6fd.css",
+    "static/js/main.18dd8595.js"
+  ]
+}
