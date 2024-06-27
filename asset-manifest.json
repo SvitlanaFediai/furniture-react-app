@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/furniture-react-app/static/css/main.ac51d6fd.css",
-    "main.js": "/furniture-react-app/static/js/main.18dd8595.js",
+    "main.js": "/furniture-react-app/static/js/main.d63f0309.js",
     "static/media/single-sofa-01.jpg": "/furniture-react-app/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
     "static/media/arm-chair-03.jpg": "/furniture-react-app/static/media/arm-chair-03.3249f382638c86196acd.jpg",
     "static/media/single-sofa-03.jpg": "/furniture-react-app/static/media/single-sofa-03.0d976c067034347df78d.jpg",
@@ -33,10 +33,10 @@
     "static/media/emptyCart.png": "/furniture-react-app/static/media/emptyCart.230e4848b62fb3cab325.png",
     "index.html": "/furniture-react-app/index.html",
     "main.ac51d6fd.css.map": "/furniture-react-app/static/css/main.ac51d6fd.css.map",
-    "main.18dd8595.js.map": "/furniture-react-app/static/js/main.18dd8595.js.map"
+    "main.d63f0309.js.map": "/furniture-react-app/static/js/main.d63f0309.js.map"
   },
   "entrypoints": [
     "static/css/main.ac51d6fd.css",
-    "static/js/main.18dd8595.js"
+    "static/js/main.d63f0309.js"
   ]
 }
