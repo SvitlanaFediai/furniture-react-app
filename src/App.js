@@ -39,7 +39,7 @@ const router = createBrowserRouter(
       </Route>
     </>
   ),
-  { basename: "/furniture-app-react" }
+  { basename: "/furniture-react-app" }
 );
 
 function App() {
